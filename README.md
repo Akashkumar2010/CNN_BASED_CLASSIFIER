@@ -1,9 +1,3 @@
-### Project Description
-This project involves building a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model is trained on a labeled dataset of cat and dog images, allowing it to predict the category of new, unseen images. CNNs are a type of deep learning model particularly well-suited for image classification tasks due to their ability to capture spatial hierarchies in images.
-
-### Example README File
-
-```markdown
 # CNN-based Cat and Dog Image Classifier
 
 This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model is trained to recognize and differentiate between images of cats and dogs using a labeled dataset. The project involves data preprocessing, model training, evaluation, and testing on new images.
@@ -69,7 +63,7 @@ cd cat-dog-classifier
 
 ```bash
 jupyter notebook CNN_based_Cat_and_Dog_Image_Classifier.ipynb
-```
+
 
 4. Follow the steps in the notebook to train and evaluate the model.
 
